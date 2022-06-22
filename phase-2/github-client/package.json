@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "got": "^11.8.3",
+    "jest": "^28.0.2"
+  },
+  "name": "github-client",
+  "version": "1.0.0",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
